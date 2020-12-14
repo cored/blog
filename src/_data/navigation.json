@@ -7,13 +7,13 @@
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "url": "https://github.com/cored",
       "external": true
-    },
+    }, 
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "About", 
+      "url": "/about", 
+      "external": false 
     }
   ]
 }
