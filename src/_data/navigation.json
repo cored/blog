@@ -9,11 +9,11 @@
       "text": "GitHub",
       "url": "https://github.com/cored",
       "external": true
-    }, 
+    },
     {
-      "text": "About", 
-      "url": "/about", 
-      "external": false 
+      "text": "About",
+      "url": "/about.md",
+      "external": false
     }
   ]
 }
