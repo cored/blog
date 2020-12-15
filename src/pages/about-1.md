@@ -12,7 +12,7 @@ Software Engineering is about everything else but computers. We practitioners of
 
 We are building software for human beings that interact and perceive the world through a different lens. Understanding different perspective implies having a different set of skills.
 
-> As a developer and educator, I apply this approach to integrate other areas of knowledge into my work, including fields like literature, history, and art. For example, if you look closely at the Learn Enough tutorials, you’ll find frequent references to Greek mythology, Roman history, and English literature. I think developing an appreciation of that broader perspective is an important part of a technical education. by *Michael Harlt - RubyonRails Tutorial*
+> As a developer and educator, I apply this approach to integrate other areas of knowledge into my work, including fields like literature, history, and art. For example, if you look closely at the Learn Enough tutorials, you’ll find frequent references to Greek mythology, Roman history, and English literature. I think developing an appreciation of that broader perspective is an important part of a technical education. by [\*Michael Harlt](*https://www.michaelhartl.com/) *\- \[RubyonRails Tutorial](*https://www.railstutorial.org/)
 
 It is not that I am already a Well-Grounded Software Engineer but an aspiring one.
 
