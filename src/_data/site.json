@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "",
-  "shortDesc": "",
-  "url": "",
+  "showThemeCredit": false,
+  "name": "The Well-Grounded Software Engineer",
+  "shortDesc": "twgse",
+  "url": "https://thewellgroundedsoftwareengineer.com",
   "authorEmail": "george.rafael@gmail.com",
-  "authorHandle": "@twgse",
+  "authorHandle": "@cor3d",
   "authorName": "Rafael A. George Duval",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
